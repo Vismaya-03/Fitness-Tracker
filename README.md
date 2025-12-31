@@ -7,7 +7,7 @@ The system uses **accelerometer and gyroscope data** collected in real time to r
 
 ---
 
-## 🏃 Exercises Classified
+## Exercises Classified
 - Bench Press  
 - Deadlift  
 - Overhead Press  
